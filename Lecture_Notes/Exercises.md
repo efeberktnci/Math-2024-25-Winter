@@ -433,7 +433,6 @@ $$
  f(x) = e^x \quad \text{and} \quad g(x) = \ln(x) \quad \text{are inverse functions.}
 $$
 
-![alt text](18-4-2.PNG)
 
 ---
  ![alt text](18-4.PNG) 
@@ -441,7 +440,6 @@ $$
 4. We have function $f=\{(1,7), (2,9), (3,11)\}$. **Find inverse function** $f^{-1}$:
    
    - $f^{-1} = \{(7,1), (9,2), (11,3)\}$.
-
 
 ![alt text](18-5.PNG)
 5. We have function $f=\{(1,7), (2,7), (3,11)\}$. **Find inverse function** $f^{-1}$:
@@ -494,7 +492,7 @@ $ \lim_{n \to \infty} \frac{8 + 0 + 0 + 0}{1 - 0} = 8 $
  
 Therefore, the limit is 8.
  
-3. Prove using the squeeze theorem:
+ ## 3. Prove using the squeeze theorem:
  
 $ \lim_{n \to \infty} \frac{\sin(n)}{n} $
  
@@ -510,9 +508,9 @@ $ \lim_{n \to \infty} \frac{-1}{n} = 0 \quad \text{and} \quad \lim_{n \to \infty
  
 Step 4: By the squeeze theorem, since both the lower and upper bounds converge to 0, the limit of the sequence is 0.
  
-4. Find the limit of the sequence:
+## 4. Find the limit of the sequence:
  
-$ a_n = \left(1 + \frac{1}{n}\right)^n $
+$$ a_n = \left(1 + \frac{1}{n}\right)^n $$
  
 This is the definition of the Euler's number, e.
  
@@ -522,7 +520,7 @@ Therefore, the limit of the sequence is e (approximately 2.71828).
  
  
  
-20 LIMITS OF REAL FUNCTIONS  $$ \lim_{x \to \infty} \frac{x^3 + 2x^2}{x^4 - 3x^3} $$
+## 20 LIMITS OF REAL FUNCTIONS  $$ \lim_{x \to \infty} \frac{x^3 + 2x^2}{x^4 - 3x^3} $$
  
 Step 1: Identify the highest power of x in the numerator and denominator.
  
@@ -534,8 +532,8 @@ $$ \lim_{x \to \infty} \frac{\frac{x^3}{x^4} + \frac{2x^2}{x^4}}{\frac{x^4}{x^4}
  
 Step 3: Evaluate the limit as x approaches infinity.
  
-As x approaches infinity, the terms $$\frac{1}{x}$$ and $$\frac{2}{x^2}$$
- and $$\frac{3}{x}$$ approach 0.
+As x approaches infinity, the terms $\frac{1}{x}$ and $\frac{2}{x^2}$
+ and $\frac{3}{x}$ approach 0.
  
 $$ \lim_{x \to \infty} \frac{\frac{1}{x} + \frac{2}{x^2}}{1 - \frac{3}{x}} = \frac{0 + 0}{1 - 0} = \frac{0}{1} = 0 $$
  
