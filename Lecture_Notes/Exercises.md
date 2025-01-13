@@ -395,6 +395,7 @@ $$
 
 and visualize functions in a single Geogebra notebook.
 
+![alt text](18-3-1.PNG)
 ---
 
 3. Let $f(x) = e^x$ and $g(x) = \ln(x)$. Check: $f(g(x))$ and $g(f(x))$. What do you notice?
